@@ -1,5 +1,5 @@
 1. Quel est le rôle du dossier public/ ?
-C'est le seul dossier accessible depuis le navigateur. Chaque fichier y gère une page ou une action (affichage, réservation...).
+C'est le seul dossier accessible depuis le navigateur. Chaque fichier y gère une page ou une action affichage, réservation etc
 
 2. Quel est le rôle d'une classe située dans Model ?
 Elle représente un objet du domaine (salle, ligue, réservation) avec ses propriétés. Elle ne touche jamais à la base de données.
